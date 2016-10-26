@@ -18,7 +18,9 @@
     left: 225px;
     text-decoration: underline;
 }
-
+a:link {
+    color:white;
+}
 a:visited {
     color: white;
 }
